@@ -1,0 +1,32 @@
+John Doe
+Software Developer
+
+EXPERIENCE
+Frontend Developer at TechCorp (2022-2024)
+- Developed responsive web applications using React and JavaScript
+- Implemented user interfaces with HTML, CSS, and TypeScript
+- Collaborated with backend team using REST APIs
+- Used Git for version control and team collaboration
+
+Junior Developer at StartupXYZ (2021-2022)
+- Built web applications using Vue.js and Node.js
+- Worked with SQL databases and MongoDB
+- Participated in Agile development processes
+
+SKILLS
+Programming Languages: JavaScript, TypeScript, Python, Java
+Frontend: React, Vue.js, HTML, CSS, Sass
+Backend: Node.js, Express.js
+Databases: SQL, MongoDB, PostgreSQL
+Tools: Git, Docker, VS Code
+Other: REST API, Responsive Design, Agile
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology (2017-2021)
+
+PROJECTS
+E-commerce Website
+- Built using React and Node.js
+- Integrated payment processing
+- Responsive design for mobile devices
